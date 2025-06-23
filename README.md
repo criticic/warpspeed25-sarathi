@@ -1,5 +1,7 @@
 # Agentic AI Assistant for WhatsApp
 
+This Project was built at the [Warpspeed25 Hackathon](https://warpspeed2025.devfolio.co/) organized by [Lightspeed India](https://x.com/LightspeedIndia). It won the [AWS Track Prize for building a HealthTech Vernacular Health Record Navigator](https://warpspeed2025.devfolio.co/prizes?partner=Amazon+Web+Services). You can find the project details [on the Devfolio Project Page](https://warpspeed2025.devfolio.co/projects/sarathi-c7eb).
+
 **Making sense of anything for India's 90%, in their language, right on WhatsApp.**
 
 This project is a powerful, multilingual agentic assistant built to run on WhatsApp. It's designed to empower a vast majority of Indians, especially the elderly and those less comfortable with complex technology, by providing a simple, conversational way to understand complex information and access general knowledge.
@@ -47,8 +49,8 @@ Follow these instructions to get a local copy up and running for development and
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/criticic/warpspeed25-sarathi.git
+    cd warpspeed25-sarathi
     ```
 
 2. **Create a `.env` file:**
